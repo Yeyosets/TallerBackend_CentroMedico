@@ -1,0 +1,32 @@
+body {
+    background: linear-gradient(to left, #0062E6, #33ffbe);/*degrada de fondo*/
+  }
+
+h1{
+    font-family: 'Righteous', cursive;
+    color: white;/*color blando al titulo principal*/
+    padding-top: 40px;/*margen superior*/
+    text-align: center;
+}
+
+label{
+    font-family: 'Righteous', cursive;
+}
+
+
+h2{
+    font-family: 'Righteous', cursive;
+    text-align: center;/*centar el titulo*/
+}
+
+#boton1{
+    font-family: 'Righteous', cursive;/*fuente de google*/
+    font-weight: bold;/*negrilla*/
+}
+
+#boton2{
+    font-family: 'Righteous', cursive;/*fuente de google*/
+    font-weight: bold;/*negrilla*/
+}
+
+
